@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "CNPJ Com V\u00e1rias ra\u00edzes",
+    "store": {},
+    "modes": [
+        1
+    ],
+    "usageCount": 20,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [
+            "=10cnpj"
+        ],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": true,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [],
+        "hotKey": null
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

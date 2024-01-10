@@ -1,0 +1,29 @@
+{
+    "type": "script",
+    "description": "Lancamento Gr For",
+    "store": {},
+    "modes": [],
+    "usageCount": 0,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<alt>",
+            "<ctrl>"
+        ],
+        "hotKey": "<np_home>"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

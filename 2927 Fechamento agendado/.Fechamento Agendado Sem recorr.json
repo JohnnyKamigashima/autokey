@@ -1,0 +1,30 @@
+{
+    "type": "script",
+    "description": "Fechamento Agendado Sem recorr",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 56,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<ctrl>"
+        ],
+        "hotKey": "<np_page_up>"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}

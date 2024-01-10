@@ -1,0 +1,13 @@
+# Enter script code
+keyboard.send_keys("<tab>")
+keyboard.send_keys("Brasil")
+keyboard.send_keys("<tab>")
+keyboard.send_keys("TOTVS Logística")
+keyboard.send_keys("<tab>")
+keyboard.send_keys("TOTVS TMS SAAS")
+keyboard.send_keys("<tab>")
+keyboard.send_keys("TMS Comercial")
+keyboard.send_keys("<tab>")
+keyboard.send_keys("Contratos")
+keyboard.send_keys("<tab>")
+keyboard.send_keys("Contratos de clientes")
