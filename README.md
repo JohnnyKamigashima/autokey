@@ -70,3 +70,5 @@ print(numero)
     return
 
 ```
+
+Veja mais coisas de autoHotKey em [ 10 scripts AutoHotkey legais (e como fazer os seus)](https://tecnoguia.istocks.club/10-scripts-autohotkey-legais-e-como-fazer-os-seus/2021-01-11/#:~:text=Os%20melhores%20scripts%20AutoHotkey%20para%20experimentar%201%201.,teclado%20num%C3%A9rico%20como%20um%20mouse%20...%20Mais%20itens)
