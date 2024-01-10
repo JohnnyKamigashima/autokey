@@ -2,6 +2,8 @@
 
 Este repo possui alguns scripts criados para AutoKey do Linux. A maioria dos scripts foram escritos em Python e podem ser reaproveitados em parte para o AutoHotKey.
 
+A pasta padrão de scripts do autokey é: `/.config/autokey`
+
 Exemplo de script para AutoKey (Linux) que digita um numero de 10 digitos aleatorios ao apertar <ctrl> F5
 
 ```python
